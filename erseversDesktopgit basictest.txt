@@ -1,0 +1,23 @@
+[33mcommit 747672a897537d3c2bf300a65ca7a1b16e8649dc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: INaNi <eversky93@naver.com>
+Date:   Thu Apr 27 17:05:03 2023 +0900
+
+    updated test.txt
+
+[33mcommit 8c9b1c2a444d9eb75b559b3424d6167038421e89[m[33m ([m[1;32mfeature[m[33m)[m
+Author: INaNi <eversky93@naver.com>
+Date:   Thu Apr 27 16:59:21 2023 +0900
+
+    added new feature
+
+[33mcommit 83bfdc593df688d0fe9bd726068ed5808beb88ad[m
+Author: INaNi <eversky93@naver.com>
+Date:   Thu Apr 27 16:46:30 2023 +0900
+
+    change test.txt and added second-commit.txt
+
+[33mcommit ac6f53da51545e2e13cf432aa45fca4ee9bc783e[m
+Author: INaNi <eversky93@naver.com>
+Date:   Thu Apr 27 16:41:01 2023 +0900
+
+    added test.txt file
